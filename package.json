@@ -6,6 +6,11 @@
   "scripts": {
     "test": "node test/"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/softwareengineer99/encode.hex.git"
+  },
+
   "keywords": [
     "encode",
     "hex",
