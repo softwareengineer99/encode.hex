@@ -1,0 +1,16 @@
+{
+  "name": "encode.hex",
+  "version": "1.0.0",
+  "description": "hex encodes a given string",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/"
+  },
+  "keywords": [
+    "encode",
+    "hex",
+    "query"
+  ],
+  "author": "Frank Mashraqi",
+  "license": "ISC"
+}
